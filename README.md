@@ -61,15 +61,15 @@ I can spend hours debugging a single issue — and still enjoy it! 😄
 
 ## ✨ Fancy Badges & Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=codersgyan\&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=farazrawala\&color=blue)
 
 ### **GitHub Stats**
 
-![Faraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=codersgyan\&show_icons=true\&theme=tokyonight)
+![Faraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=farazrawala\&show_icons=true\&theme=tokyonight)
 
 ### **Top Languages**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codersgyan\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farazrawala\&layout=compact\&theme=tokyonight)
 
 ---
 
